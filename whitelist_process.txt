@@ -1,0 +1,9 @@
+:\Windows\System32\SearchFilterHost.exe
+C:\Windows\System32\SearchIndexer.exe
+C:\Windows\System32\SearchProtocolHost.exe
+C:\Windows\System32\RuntimeBroker.exe
+C:\Windows\System32\RuntimeBroker.exe
+C:\Program Files (x86)\Microsoft\Edge\Application\msedge.exe
+C:\Program Files (x86)\Common Files\Java\Java Update\jusched.exe
+C:\Windows\System32\WindowsPowerShell\v1.0\powesrshell.exe
+C:\Program Files (x86)\Notepad++\notepad++.exe
