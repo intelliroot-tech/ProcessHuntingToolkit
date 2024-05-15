@@ -5,7 +5,7 @@ It can be used for malware analysis, threat hunting and incident Response.
 
 The toolkit contains the following three binaries:
 1 - **ProcMemScanner_Beta.exe** - hunts for malicious pattern’s in processes
-       - This tool can be used to scan the system for malicious processes
+       - This tool can be used to scan the system for malicious processe
        - If code is injected into clean process then the process is detected as malware
        - tool should be executed in administrator mode
        - tool can be used for classifying malwares and used for threat attribution
@@ -33,4 +33,4 @@ Testing ProcMemScanner_Beta.exe
 =================================
 ProMemScan requires two files to work: "whitelist_process.txt"  and "sign.dat". To initially test the scanner, you need to paste this string "ScannerTestX5O-TEST-Mem" into the notepad. Then run this tool in administrator mode. Notepad Process should be detected as "notepad and see if the notepad process is detected as "mal_scanner_test".
 
-See more details of the tool in our blog:[ https://intelliroot.com/blog](https://www.intelliroot.com/blog/process-hunting-toolkit)
+See more details of the tool in our blog: https://www.intelliroot.com/blog/process-hunting-toolkit
