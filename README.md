@@ -4,21 +4,21 @@ It can be used for malware analysis, threat hunting and incident Response.
 **Note**: All the the exe's in the toolkit needs to be executed in administrator mode
 
 The toolkit contains the following three binaries:<br />
-1 - **ProcMemScanner_Beta.exe** - hunts for malicious pattern’s in processes<br />
-      `` - This tool can be used to scan the system for malicious processes <br />
-       ``- If code is injected into clean process then the process is detected as malware <br />
-       ``- tool should be executed in administrator mode <br />
-      `` - tool can be used for classifying malwares and used for threat attribution <br />
-       ``- It can be used in sandboxes and endpoint <br />
-       ``- Malware signatures in sign.dat file. We would be updating the signature files<br />
-       ``- signature in "sign.dat" has signature for following malwares <br />
-              ``- AgentTesla <br />
-              ``- Blacknet RAT<br />
-              ``- XWorm RAT<br />
-              ``- Redline Stealer<br />
-              ``- Stealc stealer<br />
-              ``- Formbook<br />
-              ``- LummaStealer<br />
+1 - **ProcMemScanner_Beta.exe** - hunts for malicious pattern’s in processes
+      `` - This tool can be used to scan the system for malicious processes 
+       ``- If code is injected into clean process then the process is detected as malware
+       ``- tool should be executed in administrator mode 
+      `` - tool can be used for classifying malwares and used for threat attribution 
+       ``- It can be used in sandboxes and endpoint 
+       ``- Malware signatures in sign.dat file. We would be updating the signature files
+       ``- signature in "sign.dat" has signature for following malwares 
+              ``- AgentTesla 
+              ``- Blacknet RAT
+              ``- XWorm RAT
+              ``- Redline Stealer
+              ``- Stealc stealer
+              ``- Formbook
+              ``- LummaStealer
         -
 
 2 - **ProcAnomalyScanner_Beta.exe**- Detect suspicious processes on basic process attributes
