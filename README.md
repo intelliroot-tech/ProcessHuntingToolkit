@@ -21,11 +21,11 @@ The toolkit contains the following three binaries:<br />
               `    `- LummaStealer<br/>
         -
 
-2 - **ProcAnomalyScanner_Beta.exe**- Detect suspicious processes on basic process attributes
-    - Finds processes which violates basic rules of windows processes
+2 - **ProcAnomalyScanner_Beta.exe**- Detect suspicious processes on basic process attributes<br/>
+     `  `- Finds processes which violates basic rules of windows processes
     
-3 - **Injected_Code_Hunter_x64.exe/Injected_Code_Hunter_x86.exe** - hunts all the processes for code injections
-    - Detects and dumps injected code in live system
+3 - **Injected_Code_Hunter_x64.exe/Injected_Code_Hunter_x86.exe** - hunts all the processes for code injections<br/>
+     `  `- Detects and dumps injected code in live system
 
 All the above executable need to be run in Administrator mode. Below is the description of the exe's.
 
