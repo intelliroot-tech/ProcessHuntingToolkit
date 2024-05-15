@@ -11,14 +11,14 @@ The toolkit contains the following three binaries:<br />
       `  ` - tool can be used for classifying malwares and used for threat attribution<br/> 
        `  `- It can be used in sandboxes and endpoint<br/> 
        `  `- Malware signatures in sign.dat file. We would be updating the signature files<br/>
-       `  `- signature in "sign.dat" has signature for following malwares<br/> 
+       `  `- signature in "**sign.dat**" has signature for following malwares<br/> 
               `    `- AgentTesla<br/> 
-              `   `- Blacknet RAT<br/>
-              `   `- XWorm RAT<br/>
-              `   `- Redline Stealer<br/>
-              `   `- Stealc stealer<br/>
-              `   `- Formbook<br/>
-              `   `- LummaStealer<br/>
+              `    `- Blacknet RAT<br/>
+              `    `- XWorm RAT<br/>
+              `    `- Redline Stealer<br/>
+              `    `- Stealc stealer<br/>
+              `    `- Formbook<br/>
+              `    `- LummaStealer<br/>
         -
 
 2 - **ProcAnomalyScanner_Beta.exe**- Detect suspicious processes on basic process attributes
