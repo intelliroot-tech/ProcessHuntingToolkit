@@ -27,7 +27,7 @@ The toolkit contains the following three binaries:<br />
 3 - **Injected_Code_Hunter_x64.exe/Injected_Code_Hunter_x86.exe** - hunts all the processes for code injections<br/>
      `  `- Detects and dumps injected code in live system
 
-All the above executable need to be run in Administrator mode. Below is the description of the exe's.
+**NOTE:** All the above executable need to be run in **Administrator mode**. Below is the description of the exe's.
 
 Testing ProcMemScanner_Beta.exe
 =================================
