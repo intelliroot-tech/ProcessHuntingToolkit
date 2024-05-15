@@ -5,7 +5,7 @@ It can be used for malware analysis, threat hunting and incident Response.
 
 The toolkit contains the following three binaries:<br />
 1 - **ProcMemScanner_Beta.exe** - hunts for malicious pattern’s in processes<br/>
-      `` - This tool can be used to scan the system for malicious processes<br/> 
+      `  ` - This tool can be used to scan the system for malicious processes<br/> 
        ``- If code is injected into clean process then the process is detected as malware
        ``- tool should be executed in administrator mode 
       `` - tool can be used for classifying malwares and used for threat attribution 
