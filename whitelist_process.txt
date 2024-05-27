@@ -1,4 +1,4 @@
-:\Windows\System32\SearchFilterHost.exe
+C:\Windows\System32\SearchFilterHost.exe
 C:\Windows\System32\SearchIndexer.exe
 C:\Windows\System32\SearchProtocolHost.exe
 C:\Windows\System32\RuntimeBroker.exe
