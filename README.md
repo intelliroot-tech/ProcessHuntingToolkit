@@ -19,6 +19,15 @@ The toolkit contains the following three binaries:<br />
               `    `- Stealc stealer<br/>
               `    `- Formbook<br/>
               `    `- LummaStealer<br/>
+               `    `- DC RAT<br/>
+               `    `- Async RAT<br/>
+               `    `- Remcos RAT<br/>
+               `    `- warzone RAT<br/>
+               `    `- Xtreme RAT<br/>
+               `    `- Revenge RAT<br/>
+               `    `- Mimikatz<br/>
+               
+               
         -
 
 2 - **ProcAnomalyScanner_Beta.exe**- Detect suspicious processes on basic process attributes<br/>
