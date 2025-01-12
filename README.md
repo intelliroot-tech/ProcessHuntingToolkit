@@ -30,7 +30,7 @@ The toolkit contains the following three binaries:<br />
                
         -
 
-2 - **ProcAnomalyScanner_Beta.exe**- Detect suspicious processes on basic process attributes<br/>
+2 - **process_anamaly_scanner_v1.exe**- Detect suspicious processes on basic process attributes<br/>
      `  `- Finds processes which violates basic rules of windows processes
     
 3 - **Injected_Code_Hunter_x64.exe/Injected_Code_Hunter_x86.exe** - hunts all the processes for code injections<br/>
