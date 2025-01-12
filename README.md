@@ -38,6 +38,9 @@ The toolkit contains the following three binaries:<br />
 
 **NOTE:** All the above executable need to be run in **Administrator mode**. Below is the description of the exe's.
 
+ **Malware Analysis, Reverse Engineering Training**
+ https://academy.intelliroot.com/
+
 Testing ProcMemScanner_Beta.exe
 =================================
 ProMemScan requires two files to work: "whitelist_process.txt"  and "sign.dat". To initially test the scanner, you need to paste this string "ScannerTestX5O-TEST-Mem" into the notepad. Then run this tool in administrator mode. Notepad Process should be detected as "notepad and see if the notepad process is detected as "mal_scanner_test".
