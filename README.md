@@ -46,6 +46,7 @@ ProMemScan requires two files to work: "whitelist_process.txt"  and "sign.dat". 
 See more details of the tool in our blog: https://www.intelliroot.com/blog/process-hunting-toolkit
 
 
- **Malware Analysis, Reverse Engineering Training**
+ Malware Analysis, Reverse Engineering and Detection Engineering Training
+ ============================================================================
  https://academy.intelliroot.com/
 
